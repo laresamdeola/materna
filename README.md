@@ -12,5 +12,8 @@ PRACTICAL APPLICATIONS
     1. Can be used as a diagnosis tool to detect the risk level of pregnant mothers
     2. This can help reduce the wait times present in maternal care in developing countries.
 
+Live Site \n
+You can view the live site here: https://materna-ab31b6c885be.herokuapp.com/
+
 References
 Nour, Nawal M. "An introduction to maternal mortality." Reviews in obstetrics and gynecology 1.2 (2008): 77.
